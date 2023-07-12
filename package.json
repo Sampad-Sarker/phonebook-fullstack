@@ -8,11 +8,13 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sampad sarker",
+  "author": "sampad-sarker",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "mongoose": "^7.3.2",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
